@@ -1,0 +1,8 @@
+{
+  "name": "Será Cacau B2B",
+  "description": "Ecossistema oficial de parceiros B2B e revendedores da Será Cacau. Catálogo atacado, fichas técnicas, materiais de PDV e condições comerciais exclusivas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

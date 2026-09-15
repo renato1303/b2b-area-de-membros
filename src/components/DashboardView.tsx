@@ -356,8 +356,7 @@ export const DashboardView: React.FC<DashboardViewProps> = ({
                     </span>
                   </div>
                 </div>
-                <div className="flex justify-between items-center text-[9px] uppercase tracking-widest font-bold text-primary-accent group-hover:translate-x-0.5 transition-all font-mono pt-1 border-t border-border-color/30">
-                  <span>{product.wholesalePackUnits || 'Consulte lote'}</span>
+                <div className="flex justify-end items-center text-[9px] uppercase tracking-widest font-bold text-primary-accent group-hover:translate-x-0.5 transition-all font-mono pt-1 border-t border-border-color/30">
                   <span className="flex items-center gap-0.5">Detalhes <ChevronRight className="w-3 h-3" /></span>
                 </div>
               </div>

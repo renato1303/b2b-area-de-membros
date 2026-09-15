@@ -276,9 +276,6 @@ export const ProductsView: React.FC<ProductsViewProps> = ({
                       {selectedProduct.suggestedRetailPrice || selectedProduct.price}
                     </span>
                   </div>
-                  <span className="text-[9px] text-secondary-text">
-                    {selectedProduct.wholesalePackUnits || 'Consulte lote mínimo'}
-                  </span>
                 </div>
 
                 <a

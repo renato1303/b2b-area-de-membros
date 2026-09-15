@@ -24,7 +24,7 @@ interface LoginViewProps {
   adminProfile?: UserProfile;
 }
 
-const REGISTRATION_URL = 'https://www.seracacau.com.br/pages/profissionais?pb=0';
+const REGISTRATION_URL = 'https://responda.seracacau.com.br';
 
 export const LoginView: React.FC<LoginViewProps> = ({
   onLogin,
@@ -233,10 +233,10 @@ export const LoginView: React.FC<LoginViewProps> = ({
             />
           </div>
           <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-primary-accent/10 border border-primary-accent/20 text-primary-accent text-[9px] font-mono font-bold tracking-widest uppercase mb-2">
-            Portal B2B • Parceiros & Revenda
+            Portal B2B Parceiros
           </div>
           <p className="text-xs text-secondary-text max-w-xs leading-relaxed">
-            Informe seu e-mail corporativo cadastrado para acessar tabelas de atacado, materiais de PDV e condições comerciais exclusivas.
+            Informe seu e-mail cadastrado para acessar
           </p>
         </div>
 
@@ -288,7 +288,7 @@ export const LoginView: React.FC<LoginViewProps> = ({
         <form onSubmit={handleSubmit} className="flex flex-col gap-4">
           <div className="flex flex-col gap-1.5">
             <label className="text-[10px] tracking-widest uppercase text-secondary-text font-bold font-mono">
-              E-mail Corporativo do Revendedor
+              E-mail
             </label>
             <div className="relative">
               <Mail className="absolute left-3.5 top-1/2 -translate-y-1/2 w-4 h-4 text-secondary-text/60" />
@@ -322,7 +322,7 @@ export const LoginView: React.FC<LoginViewProps> = ({
               <div className="w-4 h-4 border-2 border-white/20 border-t-white rounded-full animate-spin" />
             ) : (
               <>
-                <span>Acessar Portal do Lojista</span>
+                <span>Acessar Portal do Parceiro</span>
                 <ArrowRight className="w-3.5 h-3.5" />
               </>
             )}

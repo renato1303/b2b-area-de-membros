@@ -120,7 +120,7 @@ export const PRODUCTS: Product[] = [
     minimumOrder: '1 caixa display (6 un)',
     salesPitch: 'Explique ao cliente que cada gota tem exatamente 1g de cacau 100% puro da Bahia, sem amargor agressivo devido à fermentação lenta da Cabruca. Derrete perfeitamente na água quente ou no leite vegetal.',
     posMaterialsAvailable: ['Display de Balcão em Madeira', 'Stopper de Gôndola', 'Pote de Degustação'],
-    originCooperativa: 'Cooperativa de Mulheres da Cabruca - Sul da Bahia',
+    originCooperativa: 'Cooperativa Local da Cabruca - Sul da Bahia',
     discountCode: 'B2BATACADO',
     discountDescription: 'Tabela de Revenda com 30% de desconto direto de fábrica',
     buyUrl: SERA_CACAU_BUY_URL
@@ -162,7 +162,7 @@ export const PRODUCTS: Product[] = [
     minimumOrder: '1 caixa display (10 un)',
     salesPitch: 'Ideal para quem nunca experimentou cacau 100% puro e quer começar com um pote menor, ou para quem procura um presente elegante e memorável de até R$ 80.',
     posMaterialsAvailable: ['Display de Caixa', 'Adesivo de Vitrine'],
-    originCooperativa: 'Cooperativa de Mulheres da Cabruca - Sul da Bahia',
+    originCooperativa: 'Cooperativa Local da Cabruca - Sul da Bahia',
     discountCode: 'B2BATACADO',
     discountDescription: 'Tabela de Revenda com 30% de desconto',
     buyUrl: SERA_CACAU_BUY_URL
@@ -288,7 +288,7 @@ export const PRODUCTS: Product[] = [
     minimumOrder: '1 caixa (8 un)',
     salesPitch: 'Barra maciça de cacau puro da Bahia. Pode ser ralada fina sobre o café da manhã ou derretida em banho-maria para caldas de sobremesas sem açúcar.',
     posMaterialsAvailable: ['Régua de Gôndola', 'Tag de Prateleira'],
-    originCooperativa: 'Cooperativa de Produtoras Agroflorestais da Bahia',
+    originCooperativa: 'Cooperativa Local de Produtores Agroflorestais da Bahia',
     discountCode: 'B2BATACADO',
     discountDescription: 'Tabela de Revenda com 30% de desconto',
     buyUrl: SERA_CACAU_BUY_URL
@@ -332,7 +332,7 @@ export const PRODUCTS: Product[] = [
     minimumOrder: '1 caixa (4 barras)',
     salesPitch: 'Para uso no bar de café ou revenda direta aos clientes mais fiéis. Rendimento de até 30 doses de 15g por barra.',
     posMaterialsAvailable: ['Ficha de Receitas de Barista em Acrílico'],
-    originCooperativa: 'Cooperativa de Produtoras Agroflorestais da Bahia',
+    originCooperativa: 'Cooperativa Local de Produtores Agroflorestais da Bahia',
     discountCode: 'B2BATACADO',
     discountDescription: 'Condição comercial com 30% de desconto para revenda e food service',
     buyUrl: SERA_CACAU_BUY_URL
@@ -462,7 +462,7 @@ export const PRODUCTS: Product[] = [
     minimumOrder: '1 caixa (12 un)',
     salesPitch: 'O cliente se apaixona pelo aroma. Parece que tem chocolate derretido na xícara, mas é uma infusão leve, digestiva e com zero calorias.',
     posMaterialsAvailable: ['Tag de Chás Especiais', 'Adesivo Informativo de Cardápio'],
-    originCooperativa: 'Cooperativa de Mulheres da Cabruca - Sul da Bahia',
+    originCooperativa: 'Cooperativa Local da Cabruca - Sul da Bahia',
     discountCode: 'B2BATACADO',
     discountDescription: 'Tabela de Revenda com 30% de desconto',
     buyUrl: SERA_CACAU_BUY_URL
@@ -506,7 +506,7 @@ export const PRODUCTS: Product[] = [
     minimumOrder: '1 caixa (4 kits)',
     salesPitch: 'O presente perfeito para quem aprecia slow living, bem-estar e design autoral brasileiro. Encanta à primeira vista.',
     posMaterialsAvailable: ['Suporte de Vitrine', 'Tag de Presente Personalizável'],
-    originCooperativa: 'Cooperativa de Mulheres da Cabruca & Ateliê Terra Bahiana',
+    originCooperativa: 'Cooperativa Local da Cabruca & Ateliê Terra Bahiana',
     discountCode: 'B2BATACADO',
     discountDescription: 'Tabela de Revenda com 30% de desconto',
     buyUrl: SERA_CACAU_BUY_URL
